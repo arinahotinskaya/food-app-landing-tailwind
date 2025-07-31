@@ -34,7 +34,7 @@ npm run dev
 
 ## Оригинальный макет
 
-- [Food App Free Landing Page for Figma by Marvis Dosa](https://freebieflux.com/download-food-app-free-landing-page-for-figma-freebie-by-marvis-dosa.html)
+[Food App Free Landing Page for Figma by Marvis Dosa](https://freebieflux.com/download-food-app-free-landing-page-for-figma-freebie-by-marvis-dosa.html)
 
 ---
 
