@@ -2,6 +2,10 @@
 
 Адаптация [Food App Free Landing Page for Figma](https://freebieflux.com/download-food-app-free-landing-page-for-figma-freebie-by-marvis-dosa.html) на Tailwind CSS.
 
+## Демо
+
+[Ссылка на демо (Vercel)](https://food-app-landing-tailwind.vercel.app)
+
 ## Скриншот
 
 ![Скриншот лендинга](./screenshot.png)
