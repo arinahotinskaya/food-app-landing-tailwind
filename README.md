@@ -6,10 +6,6 @@
 
 [Ссылка на демо (Vercel)](https://food-app-landing-tailwind.vercel.app)
 
-## Скриншот
-
-![Скриншот лендинга](./screenshot.png)
-
 ## Стек
 
 - **Tailwind CSS**
@@ -27,6 +23,10 @@
 - Эффекты наведения и анимации
 - Desktop-версия
 
+## В планах
+
+- Сделать мобильную версию
+
 ## Установка и запуск
 
 ```bash
@@ -39,6 +39,10 @@ npm run dev
 ## Оригинальный макет
 
 [Food App Free Landing Page for Figma by Marvis Dosa](https://freebieflux.com/download-food-app-free-landing-page-for-figma-freebie-by-marvis-dosa.html)
+
+## Скриншот
+
+![Скриншот лендинга](./screenshot.png)
 
 ---
 
